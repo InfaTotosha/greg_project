@@ -1,0 +1,51 @@
+/* version mobile */
+header {display: block;
+    unicode-bidi: isolate;
+}
+
+.container {
+    margin: 0 auto;
+max-width: 320px;
+padding: 0 16px;
+}
+
+
+.header-menu {
+display: none;
+
+}
+
+
+.page-header { 
+    border-bottom: 1px solid; #97d9fc;
+
+}
+ .page-header  .container { display: flex;
+    align-items: center;
+
+
+
+
+
+
+
+
+}
+.page-nav {
+}
+.logo {
+}
+.links {
+}
+.linsk-nav {
+}
+.current {
+}
+.address {
+}
+.header-address {
+}
+.contacts {
+}
+.open-menu-btn {
+}
